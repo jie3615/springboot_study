@@ -1,0 +1,17 @@
+spring:
+  application:
+    name: springbooot01
+  mandatory-file-encoding: utf-8
+  http:
+    encoding:
+      enabled: true
+      charset: UTF-8
+
+server:
+  port: 8866
+
+myConfig:
+  myObject:
+    name: wyj
+    age: 27
+
